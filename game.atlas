@@ -13,7 +13,7 @@ NationIcons/Mikurium
 LeaderIcons/Hatsune Miku
   rotate: false
   xy: 0, 0
-  size: 500, 455
+  size: 512, 500
   orig: 1500, 500
   offset: 0, 0
   index: -1
