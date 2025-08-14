@@ -28,17 +28,11 @@
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-        "unique": [
-		{
-			"name": "Inspiración Miku",
-			"scienceModifier": 100,
-			"culturalModifier": 100
-		}
-	]
-		
 		"outerColor": [0, 177, 183],
         "innerColor": [255, 255, 255]
-		"unique": "MANIFEST_DESTINY",
+		"unique": "[+10]% [Science] [in all cities]", "[+10]% [Gold] [in all cities]","[+10]% [Production] [in all cities]"
+
+
 		"cities": ["Mik-City","Hatsu-Deidad","Mikurium","Chibi-Ku","Hatsu-Work","Mikur-Sing","Voc-Tune","Hat-Ku","Mik-Hat-Chan",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
