@@ -1,25 +1,24 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
-		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
+		"name": "Voca-Ment",
+		"replaces": "Monument",
+		"uniqueTo": "Miku Hatsune",
+		"culture": 8,
+		"happiness": 8,
+		"faith": 8,
+		"science": 8,
+		"cost": 10,
+		"hurryCostModifier": 40,
+		"maintenance": 0,
 	},
 	{
-		"name": "Breeders",
+		"name": "Mikue-Ductos",
 		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
+		"uniqueTo": "Miku Hatsune",
+		"cost": 20,
 		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
+		"happiness": 16,
+		"uniques": ["100% of food is carried over after a new citizen is born"],
 		"requiredTech": "Engineering"
 	}
 ]
