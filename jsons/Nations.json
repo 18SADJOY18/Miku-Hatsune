@@ -28,8 +28,8 @@
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [0, 177, 183],
-        "innerColor": [255, 255, 255]
+		"outerColor": [255, 255, 255],
+        "innerColor": [0, 177, 183],
 		"unique": ["[+10]% [Science] [in all cities]", "[+10]% [Gold] [in all cities]","[+10]% [Production] [in all cities]"]
 
 
