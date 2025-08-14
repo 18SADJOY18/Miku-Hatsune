@@ -3,14 +3,14 @@ size: 1500, 500
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-NationIcons/Miku Hatsune
+NationIcons/Mikurium
   rotate: false
   xy: 549, 200
   size: 100, 100
   orig: 1500, 500
   offset: 0, 0
   index: -1
-LeaderIcons/Hatsune Miku Deidad
+LeaderIcons/Hatsune Miku
   rotate: false
   xy: 0, 0
   size: 500, 455
