@@ -27,8 +27,8 @@
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"outerColor": [0, 177, 183],
+        "innerColor": [255, 255, 255]
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["Mik-City","Hatsu-Deidad","Mikurium","Chibi-Ku","Hatsu-Work","Mikur-Sing","Voc-Tune","Hat-Ku","Mik-Hat-Chan",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
