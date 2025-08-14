@@ -27,6 +27,14 @@
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
+        "unique": [
+		{
+			"name": "Inspiración Miku",
+			"scienceModifier": 100,
+			"culturalModifier": 100
+		}
+	]
+		
 		"outerColor": [0, 177, 183],
         "innerColor": [255, 255, 255]
 		"unique": "MANIFEST_DESTINY",
