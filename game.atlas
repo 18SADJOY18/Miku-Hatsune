@@ -6,7 +6,7 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 NationIcons/Miku Hatsune
   rotate: false
-  xy: 4, 4
+  xy: 549, 200
   size: 100, 100
   orig: 1500, 500
   offset: 0, 0
@@ -14,7 +14,7 @@ NationIcons/Miku Hatsune
 LeaderIcons/miku hatsune
   rotate: false
   xy: 0, 0
-  size: 512, 500
+  size: 500, 455
   orig: 1500, 500
   offset: 0, 0
   index: -1
