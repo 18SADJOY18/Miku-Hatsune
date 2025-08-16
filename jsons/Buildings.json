@@ -41,4 +41,16 @@
 		"hurryCostModifier": 25,
 		"requiredTech": "Trapping"
 	}
+	{
+		"name": "Universi-Ku",
+		"replaces": "University",
+		"uniqueTo": "Mikurium"
+		"maintenance": 1,
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"science": 180},
+		"specialistSlots": {"Scientist": 180},
+		"requiredBuilding": "Library",
+		"uniques": ["[+200 Science] from [Jungle] tiles [in this city]"],
+		"requiredTech": "Education"
+	}
 ]
