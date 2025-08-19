@@ -11,9 +11,9 @@
 		"upgradesTo": "Swordsman",
 		"uniques" : [
 			"May upgrade to [Spearman] through ruins-like effects", 
-			"Heals [80] damage if it kills a unit",
-			"Starts with [800] XP",
-		
+		    "Earn [100]% of killed [non-[Barbarian]] unit's [Cost] as [Gold]",
+            "[+50]% XP gained from combat",
+            "Can accumulate experience beyond the normal limit",
 		],
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
