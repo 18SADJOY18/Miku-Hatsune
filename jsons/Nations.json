@@ -36,9 +36,13 @@
 
 		"outerColor": [255, 255, 255],
         "innerColor": [0, 177, 183],
-		"uniques": ["[+300]% [Science] [in all cities]", 
-			"[+300]% [Gold] [in all cities]",
-			"[+300]% [Production] [in all cities]",
+		"uniques": ["[+300]% Science in all cities", 
+			"[+300]% Gold in all cities",
+			"[+300]% Production in all cities",
+			"City strength increased by [90]",
+            "City hit points increased by [90]",
+			"[+25]% Production when building Units",
+			"[+80]% Gold from Trade Routes",
 		],
 
 
