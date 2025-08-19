@@ -15,6 +15,7 @@
 			"Earn [100]% of killed [non-[Barbarian]] unit's [Cost] as [Gold]",
             "[+50]% XP gained from combat",
             "Can accumulate experience beyond the normal limit",
+			"[+600]% Strength <vs cities> <when attacking>",
 		],
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
@@ -67,6 +68,7 @@
 	{
 		"name": "Cata-Hatsu-Mik",
 		"unitType": "Siege",
+		"uniqueTo": "Mikurium",
 		"movement": 4,
 		"strength": 10,
 		"rangedStrength": 14,
