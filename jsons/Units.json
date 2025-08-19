@@ -12,8 +12,8 @@
 		"uniques" : [
 			"May upgrade to [Spearman] through ruins-like effects", 
 			"Heals [80] damage if it kills a unit",
-			"Gain [20] XP per turn",
-			"Gain [100] Gold when killing a unit",
+			"Starts with [800] XP",
+		
 		],
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
