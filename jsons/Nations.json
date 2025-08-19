@@ -41,7 +41,8 @@
 			"[+200]% [Gold] [in all cities]",
 			"[+200]% [Production] [in all cities]",
 			"[+400]% [Gold] [from Trade Routes]",
-			"[+400] [Gold] [from Trade Routes]",
+			"[Roads] and [Railroads] maintenance cost 0",
+			"[+100 Gold] from every Trade route",
 			"[+200 Science] from every [Luxury resource]",
 		],
 
