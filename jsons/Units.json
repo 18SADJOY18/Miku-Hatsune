@@ -11,7 +11,7 @@
 		"upgradesTo": "Swordsman",
 		"uniques" : [
 			"May upgrade to [Spearman] through ruins-like effects", 
-			"[KilledUnit] heals [18] HP"
+			"Heals [18] HP when killing a unit"
 		],
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
