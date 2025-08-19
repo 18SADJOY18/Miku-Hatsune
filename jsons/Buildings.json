@@ -53,4 +53,12 @@
 		"uniques": ["[+200 Science] from [Jungle] tiles [in this city]"],
 		"requiredTech": "Education"
 	}
+	{
+		"name": "Mik-Hat-lla",
+		"replaces": "Walls",
+		"uniqueTo": "Mikurium"
+		"cityStrength": 100,
+		"cityHealth": 200,
+		"hurryCostModifier": 18,
+	},
 ]
