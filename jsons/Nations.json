@@ -11,6 +11,7 @@
             "City hit points increased by [90]",
 			"[+25]% Production when building Units",
 			"[+25]% Gold from Trade Routes",
+			"[+400]% Esciencie from [Strategic resource]"
 		]
 		
 		"startIntroPart1": "We come in peace!",
@@ -40,6 +41,7 @@
 			"[+200]% [Gold] [in all cities]",
 			"[+200]% [Production] [in all cities]",
 			"[+400]% [Gold] [from Trade Routes]",
+			"[+400]% Esciencie from [Strategic resource]",
 		],
 
 
