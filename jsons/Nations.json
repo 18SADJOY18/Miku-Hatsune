@@ -41,7 +41,8 @@
 			"[+200]% [Gold] [in all cities]",
 			"[+200]% [Production] [in all cities]",
 			"[+400]% [Gold] [from Trade Routes]",
-			"[+400 Science] from every [Luxury resource]",
+			"[+400] [Gold] [from Trade Routes]",
+			"[+200 Science] from every [Luxury resource]",
 		],
 
 
