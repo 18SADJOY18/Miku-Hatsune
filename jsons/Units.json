@@ -16,6 +16,7 @@
             "[+400]% XP gained from combat",
             "Can accumulate experience beyond the normal limit",
 			"[+600]% Strength <vs cities> <when attacking>",
+			"Can attack three times per turn",
 		],
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
