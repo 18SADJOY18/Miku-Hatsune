@@ -60,5 +60,6 @@
 		"cityStrength": 100,
 		"cityHealth": 200,
 		"hurryCostModifier": 18,
+		"requiredTech": "Agriculture"
 	},
 ]
