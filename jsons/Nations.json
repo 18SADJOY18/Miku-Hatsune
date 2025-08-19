@@ -37,15 +37,15 @@
 
 		"outerColor": [255, 255, 255],
         "innerColor": [0, 177, 183],
-		"uniques": ["[+200]% [Science] [in all cities]", 
-			"[+200]% [Gold] [in all cities]",
-			"[+200]% [Production] [in all cities]",
+		"uniques": ["[+300]% [Science] [in all cities]", 
+			"[+300]% [Gold] [in all cities]",
+			"[+300]% [Production] [in all cities]",
 			"[+400]% [Gold] [from Trade Routes]",
 			"[+100 Gold] from each Trade Route",
 			"[-100]% maintenance on road & railroads",
 			"[+200 Science] from every [Luxury resource]",
 			"[+200]% Strength when fighting in [Foreign Lands]",
-			"[+400]% Strategic resource quantity"],
+			"[+300]% [Strategic] resource production",
 		],
 
 
