@@ -44,7 +44,8 @@
 			"[+100 Gold] from each Trade Route",
 			"[-100]% maintenance on road & railroads",
 			"[+200 Science] from every [Luxury resource]",
-			"[+200]% Strength in [Foreign Lands]",
+			"[+200]% Strength when at war",
+			"[+200]% Strength for [All] units in [Foreign Land] tiles",
 			"[+300]% [Strategic] resource production",
 		],
 
