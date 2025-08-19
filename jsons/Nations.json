@@ -6,6 +6,10 @@
 		"adjective": ["Vocaloid"],
 		"startBias": ["Snow"],
 		"preferredVictoryType": "Scientific",
+        "uniques": [
+      "City strength increased by [200]",
+      "City hit points increased by [200]"
+		]
 		
 		"startIntroPart1": "We come in peace!",
 		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
@@ -33,9 +37,6 @@
 		"uniques": ["[+300]% [Science] [in all cities]", 
 			"[+300]% [Gold] [in all cities]",
 			"[+300]% [Production] [in all cities]",
-		    "City strength increased by [200]",
-			"City hit points increased by [200]",
-			"Cities heal [+200] HP per turn",
 		],
 
 
