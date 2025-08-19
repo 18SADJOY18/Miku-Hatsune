@@ -9,7 +9,10 @@
 		"cost": 20,
 		"obsoleteTech": "Metal Casting",
 		"upgradesTo": "Swordsman",
-		"uniques" : ["May upgrade to [Spearman] through ruins-like effects"], ["When defeating a [Wounded] unit, earn [100] Gold and recruit it"],
+		"uniques" : [
+			"May upgrade to [Spearman] through ruins-like effects", 
+			"When defeating a [Wounded] unit, earn [100] Gold and recruit it"
+		],
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "This is your basic, club-swinging fighter."}
