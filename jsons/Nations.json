@@ -7,8 +7,9 @@
 		"startBias": ["Snow"],
 		"preferredVictoryType": "Scientific",
         "uniques": [
-      "City strength increased by [200]",
-      "City hit points increased by [200]"
+            "City strength increased by [200]",
+            "City hit points increased by [200]",
+			"[+25]% Production when at war",
 		]
 		
 		"startIntroPart1": "We come in peace!",
