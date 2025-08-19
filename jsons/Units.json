@@ -4,16 +4,16 @@
 		"unitType": "Sword",
 		"uniqueTo": "Mikurium"
 		"replaces": "Warrior"
-		"movement": 2,
-		"strength": 12,
-		"cost": 20,
+		"movement": 3,
+		"strength": 14,
+		"cost": 10,
 		"obsoleteTech": "Metal Casting",
 		"upgradesTo": "Swordsman",
 		"uniques" : [
 			"May upgrade to [Spearman] through ruins-like effects", 
 		    "Heals [200] damage if it kills a unit",
 			"Earn [100]% of killed [non-[Barbarian]] unit's [Cost] as [Gold]",
-            "[+50]% XP gained from combat",
+            "[+400]% XP gained from combat",
             "Can accumulate experience beyond the normal limit",
 			"[+600]% Strength <vs cities> <when attacking>",
 		],
