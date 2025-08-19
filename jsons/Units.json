@@ -11,7 +11,7 @@
 		"upgradesTo": "Swordsman",
 		"uniques" : [
 			"May upgrade to [Spearman] through ruins-like effects", 
-			"When defeating a [Wounded] unit, earn [100] Gold and recruit it",
+			"When defeating a [Wounded] unit, earn [100] Gold"
 		],
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
