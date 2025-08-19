@@ -11,7 +11,8 @@
 		"upgradesTo": "Swordsman",
 		"uniques" : [
 			"May upgrade to [Spearman] through ruins-like effects", 
-		    "Earn [100]% of killed [non-[Barbarian]] unit's [Cost] as [Gold]",
+		    "Heals [200] damage if it kills a unit",
+			"Earn [100]% of killed [non-[Barbarian]] unit's [Cost] as [Gold]",
             "[+50]% XP gained from combat",
             "Can accumulate experience beyond the normal limit",
 		],
