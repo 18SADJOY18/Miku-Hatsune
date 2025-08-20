@@ -126,16 +126,37 @@
 		"cost": 425,
 		"requiredTech": "Telecommunications",
 		"uniques": [
-			"[+75]% Strength <when attacking>", 
+			"[+200]% Strength <when attacking>", 
 			"Can only attack [Water] tiles", 
-			"[+1] Sight", "Can carry [2] [Missile] units", 
+			"[+8] Sight", "Can carry [2] [Missile] units", 
 			"Never appears as a Barbarian unit",
 			"Range +4",
 			"Can attack cities",
 			"Can capture cities",
 			"Heals [800] damage if it kills a unit",
+			"[+600]% Strength <vs cities> <when attacking>",
 		],
 		"attackSound": "torpedo"
+	}
+	{
+		"name": "Hat-Alth Sune-ber",
+		"unitType": "Stealth Bomber",
+		"uniqueTo": "Mikurium",
+		"unitType": "Bomber",
+		"movement": 40,
+		"strength": 800,
+		"rangedStrength": 40,
+		"range": 800,
+		"cost": 200,
+		"requiredTech": "Stealth",
+		"uniques": ["Damage taken from interception reduced by [100]%", 
+			"Cannot be carried by [Carrier] units", 
+			"[+80] Sight", 
+			"Can see over obstacles",
+			"[+600]% Strength <vs cities> <when attacking>",
+			"Can capture cities",
+		],
+		"attackSound": "bombing"
 	},
 	
 ]
