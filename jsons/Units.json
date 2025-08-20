@@ -40,7 +40,7 @@
             "Can accumulate experience beyond the normal limit",
 			"[+600]% Strength <vs cities> <when attacking>",
 			"Can attack three times per turn",
-		]
+		],
 		"obsoleteTech": "Mobile Tactics",
 		"attackSound": "shot"
 	}
@@ -77,6 +77,17 @@
 		"cost": 60,
 		"requiredTech": "Machinery",
 		"upgradesTo": "Gatling Gun",
+		"uniques": [
+			"Can move after attacking","No defensive terrain bonus", 
+			"Never appears as a Barbarian unit",
+			"Heals [800] damage if it kills a unit",
+			"Earn [800]% of killed [non-[Barbarian]] unit's [Cost] as [Gold]",
+            "[+800]% XP gained from combat",
+            "Can accumulate experience beyond the normal limit",
+			"[+600]% Strength <vs cities> <when attacking>",
+			"Can attack three times per turn",
+			"Range +1",
+		],
 		"obsoleteTech": "Industrialization",
 		"promotions": ["[Chu-Ko-Nu] ability"],
 		"attackSound": "crossbow"
@@ -103,5 +114,27 @@
 		"hurryCostModifier": 20,
 		"attackSound": "throw"
 	}
+	{
+		"name": "Hatsu-Clear Mik-Rine",
+		"unitType": "Nuclear Submarine",
+		"uniqueTo": "Mikurium",
+		"unitType": "Submarine",
+		"movement": 8,
+		"strength": 500,
+		"range": 8,
+		"rangedStrength": 85,
+		"cost": 425,
+		"requiredTech": "Telecommunications",
+		"uniques": [
+			"[+75]% Strength <when attacking>", 
+			"Can only attack [Water] tiles", 
+			"[+1] Sight", "Can carry [2] [Missile] units", 
+			"Never appears as a Barbarian unit",
+			"Range +4",
+			"Can attack cities",
+			"Heals [800] damage if it kills a unit",
+		],
+		"attackSound": "torpedo"
+	},
 	
 ]
