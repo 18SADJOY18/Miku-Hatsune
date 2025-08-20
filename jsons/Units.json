@@ -5,15 +5,15 @@
 		"uniqueTo": "Mikurium"
 		"replaces": "Warrior"
 		"movement": 3,
-		"strength": 14,
+		"strength": 16,
 		"cost": 10,
 		"obsoleteTech": "Metal Casting",
 		"upgradesTo": "Swordsman",
 		"uniques" : [
 			"May upgrade to [Spearman] through ruins-like effects", 
 		    "Heals [200] damage if it kills a unit",
-			"Earn [100]% of killed [non-[Barbarian]] unit's [Cost] as [Gold]",
-            "[+400]% XP gained from combat",
+			"Earn [800]% of killed [non-[Barbarian]] unit's [Cost] as [Gold]",
+            "[+800]% XP gained from combat",
             "Can accumulate experience beyond the normal limit",
 			"[+600]% Strength <vs cities> <when attacking>",
 			"Can attack three times per turn",
@@ -29,10 +29,18 @@
 		"uniqueTo": "Mikurium"
 		"replaces": "Infantry"
 		"movement": 2,
-		"strength": 100,
+		"strength": 180,
 		"cost": 300,
 		"requiredTech": "Plastics",
 		"upgradesTo": "Mechanized Infantry",
+		"uniques" : [
+			"Heals [200] damage if it kills a unit",
+			"Earn [800]% of killed [non-[Barbarian]] unit's [Cost] as [Gold]",
+            "[+800]% XP gained from combat",
+            "Can accumulate experience beyond the normal limit",
+			"[+600]% Strength <vs cities> <when attacking>",
+			"Can attack three times per turn",
+		]
 		"obsoleteTech": "Mobile Tactics",
 		"attackSound": "shot"
 	}
@@ -45,9 +53,16 @@
 		"strength": 150,
 		"cost": 300,
 		"requiredTech": "Combined Arms",
-		"requiredResource": "Oil",
 		"upgradesTo": "Modern Armor",
-		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus", 
+			"Never appears as a Barbarian unit",
+			"Heals [200] damage if it kills a unit",
+			"Earn [800]% of killed [non-[Barbarian]] unit's [Cost] as [Gold]",
+            "[+800]% XP gained from combat",
+            "Can accumulate experience beyond the normal limit",
+			"[+600]% Strength <vs cities> <when attacking>",
+			"Can attack three times per turn",
+		],
 		"attackSound": "tankshot"
 	}
 	{
@@ -59,7 +74,7 @@
 		"strength": 17,
 		"rangedStrength": 16,
 		"replaces": "Crossbowman",
-		"cost": 90,
+		"cost": 60,
 		"requiredTech": "Machinery",
 		"upgradesTo": "Gatling Gun",
 		"obsoleteTech": "Industrialization",
@@ -71,14 +86,20 @@
 		"unitType": "Siege",
 		"uniqueTo": "Mikurium",
 		"movement": 4,
-		"strength": 10,
+		"strength": 80,
 		"rangedStrength": 14,
 		"cost": 50,
 		"requiredTech": "Mathematics",
 		"obsoleteTech": "Physics",
 		"upgradesTo": "Trebuchet",
 		"uniques": ["[+600]% Strength <vs cities> <when attacking>", "No defensive terrain bonus",
-			"Must set up to ranged attack", "[-1] Sight", "Never appears as a Barbarian unit"],
+			"Must set up to ranged attack", "[-1] Sight", 
+			"Never appears as a Barbarian unit",
+		    "Heals [200] damage if it kills a unit",
+			"Earn [800]% of killed [non-[Barbarian]] unit's [Cost] as [Gold]",
+            "[+800]% XP gained from combat",
+            "Can accumulate experience beyond the normal limit",
+		],
 		"hurryCostModifier": 20,
 		"attackSound": "throw"
 	}
