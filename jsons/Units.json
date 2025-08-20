@@ -29,7 +29,7 @@
 		"uniqueTo": "Mikurium"
 		"replaces": "Infantry"
 		"movement": 2,
-		"strength": 180,
+		"strength": 200,
 		"cost": 300,
 		"requiredTech": "Plastics",
 		"upgradesTo": "Mechanized Infantry",
@@ -50,13 +50,13 @@
 		"uniqueTo": "Mikurium"
 		"replaces": "Tank"
 		"movement": 7,
-		"strength": 150,
+		"strength": 400,
 		"cost": 300,
 		"requiredTech": "Combined Arms",
 		"upgradesTo": "Modern Armor",
 		"uniques": ["Can move after attacking","No defensive terrain bonus", 
 			"Never appears as a Barbarian unit",
-			"Heals [200] damage if it kills a unit",
+			"Heals [800] damage if it kills a unit",
 			"Earn [800]% of killed [non-[Barbarian]] unit's [Cost] as [Gold]",
             "[+800]% XP gained from combat",
             "Can accumulate experience beyond the normal limit",
