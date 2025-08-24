@@ -193,7 +193,7 @@
 		"promotions" : ["Evasion"],
 		"uniques": ["Nuclear weapon of Strength [10000]", 
 			"Self-destructs when attacking",
-			"Blast radius [8]",
+			"Blast radius [20]",
 			"[+800]% Strength <vs cities> <when attacking>",
 		],
 		"attackSound": "nuke"
