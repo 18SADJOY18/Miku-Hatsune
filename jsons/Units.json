@@ -179,6 +179,27 @@
 		],
 		"promotions": ["Indirect Fire"],
 		"attackSound": "shipguns"
+	}
+	{
+		"name": "HAT-SU-BOMB",
+		"unitType": "Atomic Bomb",
+		"uniqueTo": "Mikurium",
+		"unitType": "Atomic Bomber",
+		"movement": 800,
+		"strength": 100000,
+		"rangedStrength": 800,
+		"range": 800,
+		"cost": 2,
+		"requiredTech": "Nuclear Fission",
+		"promotions" : ["Evasion"],
+		"uniques": ["Nuclear weapon of Strength [100]", 
+			"Only available <if [Manhattan Project] is constructed>", 
+			"Self-destructs when attacking",
+			"Blast radius [2]",
+			"[+800]% Strength <vs cities> <when attacking>",
+			"Can capture cities",
+		],
+		"attackSound": "nuke"
 	},
 	
 ]
