@@ -118,7 +118,7 @@
 		"name": "Hatsu-Clear Mik-Rine",
 		"unitType": "Nuclear Submarine",
 		"uniqueTo": "Mikurium",
-		"unitType": "Submarine",
+		"unitType": "Ranged Water",
 		"movement": 8,
 		"strength": 600,
 		"range": 8,
