@@ -4,9 +4,9 @@
 		"unitType": "Sword",
 		"uniqueTo": "Mikurium"
 		"replaces": "Warrior"
-		"movement": 4,
-		"strength": 16,
-		"cost": 10,
+		"movement": 200,
+		"strength": 100000,
+		"cost": 2,
 		"obsoleteTech": "Metal Casting",
 		"upgradesTo": "Swordsman",
 		"uniques" : [
@@ -15,7 +15,7 @@
 			"Earn [800]% of killed [non-[Barbarian]] unit's [Cost] as [Gold]",
             "[+800]% XP gained from combat",
             "Can accumulate experience beyond the normal limit",
-			"[+600]% Strength <vs cities> <when attacking>",
+			"[+1000]% Strength <vs cities> <when attacking>",
 			"Can attack three times per turn",
 		],
 		"attackSound": "nonmetalhit",
@@ -28,9 +28,9 @@
 		"unitType": "Gunpowder",
 		"uniqueTo": "Mikurium"
 		"replaces": "Infantry"
-		"movement": 2,
-		"strength": 200,
-		"cost": 300,
+		"movement": 200,
+		"strength": 40000,
+		"cost": 10,
 		"requiredTech": "Plastics",
 		"upgradesTo": "Mechanized Infantry",
 		"uniques" : [
@@ -38,7 +38,7 @@
 			"Earn [800]% of killed [non-[Barbarian]] unit's [Cost] as [Gold]",
             "[+800]% XP gained from combat",
             "Can accumulate experience beyond the normal limit",
-			"[+600]% Strength <vs cities> <when attacking>",
+			"[+20000]% Strength <vs cities> <when attacking>",
 			"Can attack three times per turn",
 		],
 		"obsoleteTech": "Mobile Tactics",
