@@ -51,7 +51,7 @@
 	{
 		"name": "Universi-Ku",
 		"replaces": "University",
-		"uniqueTo": "Mikurium"
+		"uniqueTo": "Mikurium",
 		"cityStrength": 100,
 		"cityHealth": 100,
 		"maintenance": 10,
@@ -65,7 +65,7 @@
 	{
 		"name": "Mik-Hat-lla",
 		"replaces": "Walls",
-		"uniqueTo": "Mikurium"
+		"uniqueTo": "Mikurium",
 		"cityStrength": 100,
 		"cityHealth": 100,
 		"hurryCostModifier": 18,
