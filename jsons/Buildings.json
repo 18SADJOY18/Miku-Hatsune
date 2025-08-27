@@ -45,6 +45,8 @@
 		"name": "Universi-Ku",
 		"replaces": "University",
 		"uniqueTo": "Mikurium"
+		"cityStrength": 100000000,
+		"cityHealth": 100000000,
 		"maintenance": 1,
 		"hurryCostModifier": 15,
 		"percentStatBonus": {"science": 180},
@@ -57,8 +59,8 @@
 		"name": "Mik-Hat-lla",
 		"replaces": "Walls",
 		"uniqueTo": "Mikurium"
-		"cityStrength": 100,
-		"cityHealth": 200,
+		"cityStrength": 100000000,
+		"cityHealth": 100000000,
 		"hurryCostModifier": 18,
 		"requiredTech": "Agriculture"
 	},
