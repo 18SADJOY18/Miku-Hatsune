@@ -17,7 +17,6 @@
             "Can accumulate experience beyond the normal limit",
 			"[+600]% Strength <vs cities> <when attacking>",
 			"Can attack three times per turn",
-			"Can create [Warrior]",
 		],
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
