@@ -21,9 +21,9 @@
 		"cityHealth": 9000000000,
 		"cost": 0,
 		"hurryCostModifier": 160,
-		"science": 800000000000000000000000000,
-		"happiness": 8000000000000000000000,
-		"uniques": ["1000000000000000000000000000000% of food is carried over after a new citizen is born"],
+		"science": 800000000000000000000,
+		"happiness": 80000000000000000,
+		"uniques": ["1000000% of food is carried over after a new citizen is born"],
 		"requiredTech": "Engineering"
 	}
 	{
@@ -60,7 +60,7 @@
 		"percentStatBonus": {"science": 180},
 		"specialistSlots": {"Scientist": 180},
 		"requiredBuilding": "Library",
-		"uniques": ["[+200 Science] from [Jungle] tiles [in this city]"],
+		"uniques": ["[+200000 Science] from [Jungle] tiles [in this city]"],
 		"requiredTech": "Education"
 	}
 	{
