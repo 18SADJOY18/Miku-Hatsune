@@ -2,8 +2,8 @@
 	{
 		"name": "Vocaloids",
 		"unitType": "Sword",
-		"uniqueTo": "Mikurium"
-		"replaces": "Warrior"
+		"uniqueTo": "Mikurium",
+		"replaces": "Warrior",
 		"movement": 200,
 		"strength": 100000,
 		"cost": 2,
@@ -26,8 +26,8 @@
 	{
 		"name": "Mini Miku",
 		"unitType": "Gunpowder",
-		"uniqueTo": "Mikurium"
-		"replaces": "Infantry"
+		"uniqueTo": "Mikurium",
+		"replaces": "Infantry",
 		"movement": 200,
 		"strength": 40000,
 		"cost": 10,
@@ -47,11 +47,11 @@
 	{
 		"name": "Miku Tank Chan",
 		"unitType": "Armored",
-		"uniqueTo": "Mikurium"
-		"replaces": "Tank"
-		"movement": 7,
-		"strength": 400,
-		"cost": 300,
+		"uniqueTo": "Mikurium",
+		"replaces": "Tank",
+		"movement": 800,
+		"strength": 40000000000,
+		"cost": 10,
 		"requiredTech": "Combined Arms",
 		"upgradesTo": "Modern Armor",
 		"uniques": ["Can move after attacking","No defensive terrain bonus", 
@@ -60,7 +60,7 @@
 			"Earn [800]% of killed [non-[Barbarian]] unit's [Cost] as [Gold]",
             "[+800]% XP gained from combat",
             "Can accumulate experience beyond the normal limit",
-			"[+600]% Strength <vs cities> <when attacking>",
+			"[+80000000000000]% Strength <vs cities> <when attacking>",
 			"Can attack three times per turn",
 		],
 		"attackSound": "tankshot"
@@ -70,11 +70,11 @@
 		"unitType": "Archery",
 		"uniqueTo": "Mikurium",
 		"replaces": "Chu-Ko-Nu"
-		"movement": 3,
-		"strength": 17,
-		"rangedStrength": 16,
+		"movement": 400,
+		"strength": 800000000000000,
+		"rangedStrength": 8000000000000,
 		"replaces": "Crossbowman",
-		"cost": 60,
+		"cost": 10,
 		"requiredTech": "Machinery",
 		"upgradesTo": "Gatling Gun",
 		"uniques": [
@@ -96,9 +96,9 @@
 		"name": "Cata-Hatsu-Mik",
 		"unitType": "Siege",
 		"uniqueTo": "Mikurium",
-		"movement": 4,
-		"strength": 80,
-		"rangedStrength": 14,
+		"movement": 8000,
+		"strength": 80000000000000,
+		"rangedStrength": 40000000000000,
 		"cost": 50,
 		"requiredTech": "Mathematics",
 		"obsoleteTech": "Physics",
@@ -194,7 +194,7 @@
 		"uniques": ["Nuclear weapon of Strength [10000]", 
 			"Self-destructs when attacking",
 			"Blast radius [20]",
-			"[+800]% Strength <vs cities> <when attacking>",
+			"[+8000000000000000000]% Strength <vs cities> <when attacking>",
 		],
 		"attackSound": "nuke"
 	},
