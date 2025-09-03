@@ -52,6 +52,23 @@
 			"Enemy units adjacent to your units get -100% Strength",
             "Enemy cities within 3 tiles suffer -100% Strength",
             "Enemy land units receive 200 damage each turn when in your territory",
+			"All newly-trained Military Land units in all cities receive the Drill I promotion",
+            "All newly-trained Military Land units in all cities receive the Drill II promotion",
+            "All newly-trained Military Land units in all cities receive the Drill III promotion",
+            "All newly-trained Military Land units in all cities receive the Drill IV promotion",
+            "All newly-trained Military Land units in all cities receive the Shock I promotion",
+            "All newly-trained Military Land units in all cities receive the Shock II promotion",
+            "All newly-trained Military Land units in all cities receive the Shock III promotion",
+            "All newly-trained Military Land units in all cities receive the Shock IV promotion",
+            "All newly-trained Military Land units in all cities receive the Cover I promotion",
+            "All newly-trained Military Land units in all cities receive the Cover II promotion",
+            "All newly-trained Military Land units in all cities receive the March promotion",
+            "All newly-trained Military Land units in all cities receive the Blitz promotion",
+            "All newly-trained Military Land units in all cities receive the Logistics promotion",
+            "All newly-trained Military Land units in all cities receive the Medic promotion",
+            "All newly-trained Military Land units in all cities receive the Scouting III promotion",
+            "All newly-trained Military Land units in all cities receive the Amphibious promotion",
+            "All newly-trained Military Land units in all cities receive the Siege promotion"
 		],
 
 
