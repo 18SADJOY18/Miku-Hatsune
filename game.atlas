@@ -17,7 +17,7 @@ LeaderIcons/Hatsune Miku
   orig: 1500, 500
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Vocaloids
+UnitIcons/Vocaloids
   rotate: false
   xy: 737, 230
   size: 32, 32
