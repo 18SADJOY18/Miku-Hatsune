@@ -19,15 +19,15 @@ LeaderIcons/Hatsune Miku
   index: -1
 TileSets/FantasyHex/Units/Vocaloids
   rotate: false
-  xy: 737, 230
-  size: 20, 20
+  xy: 741, 231
+  size: 15, 15
   orig: 1500, 500
   offset: 0, 0
   index: -1
 UnitIcons/Vocaloids
   rotate: false
-  xy: 737, 230
-  size: 20, 20
+  xy: 741, 231
+  size: 15, 15
   orig: 1500, 500
   offset: 0, 0
   index: -1
