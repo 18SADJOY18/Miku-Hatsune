@@ -19,8 +19,8 @@ LeaderIcons/Hatsune Miku
   index: -1
 TileSets/FantasyHex/Units/Vocaloids
   rotate: false
-  xy: 0, 0
+  xy: 737, 230
   size: 32, 32
-  orig: 32, 32
+  orig: 1500, 500
   offset: 0, 0
   index: -1
