@@ -24,3 +24,10 @@ TileSets/FantasyHex/Units/Vocaloids
   orig: 1500, 500
   offset: 0, 0
   index: -1
+UnitIcons/Vocaloids
+  rotate: false
+  xy: 737, 230
+  size: 32, 32
+  orig: 1500, 500
+  offset: 0, 0
+  index: -1
